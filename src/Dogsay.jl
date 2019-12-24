@@ -4,11 +4,11 @@ module Dogsay
 function dogsay(str)
   l = length(str)
   println("	     |\_/|   ")                  
-  print("             | @ @             | "); printstyled(str, color=:light_red); println(" |");
+  print("            | @ @             | "); printstyled(str, color=:light_red); println(" |");
   println("	     |   <>              _  ")
   println("	     |  _/\------____ ((| |))")
-  println("      |               `--' |")
-  println("  ____|_       ___|   |___.")
+  println("         |               `--' |")
+  println("     ____|_       ___|   |___.")
   println(" /_/_____/____/_______|")
 end
 
