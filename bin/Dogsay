@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 str=$1
 
 julia --color yes -e "using Dogsay; dogsay(\"$1\")"
