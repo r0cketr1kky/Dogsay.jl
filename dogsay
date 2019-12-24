@@ -1,0 +1,3 @@
+str=$1
+
+julia --color yes -e "using dogsay; dogsay(\"$1\")"
