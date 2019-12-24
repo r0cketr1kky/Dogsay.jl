@@ -1,0 +1,14 @@
+name = "Datsay"
+uuid = "acf3c091-ce01-4292-8263-b551f8901f4f"
+authors = ["Rakshit Naidu <rakshit.naidu07@gmail.com>"]
+version = "0.2.0"
+
+[compat]
+julia = ">= 0.7"
+
+[extras]
+Test = 
+
+[targets]
+test = ["Test"]
+
