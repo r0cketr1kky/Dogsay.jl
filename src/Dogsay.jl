@@ -3,7 +3,7 @@ module Dogsay
 # Source of ASCII dog: https://www.asciiart.eu/animals/dogs
 function dogsay(str)
   l = length(str)
-  println("   |\_/|   ")                  
+  println(r"   |\_/|   ")                  
   println("   | @ @     $str");
   println("   |   <>              _  ")
   println("   |  _/\------____ ((| |))")
