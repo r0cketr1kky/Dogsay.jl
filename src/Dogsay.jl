@@ -14,4 +14,4 @@ end
 
 export dogsay
 
-end
+end # module
