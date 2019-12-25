@@ -1,5 +1,5 @@
 name = "Dogsay"
-uuid = "9013e978-0fa9-4a6f-8e4e-e4657e80fe81"
+uuid = "5193907d-d586-5f94-a3e6-8b6fe67f210a"
 authors = ["Rakshit Naidu <rakshit.naidu07@gmail.com>"]
 version = "0.1.0"
 
@@ -11,6 +11,4 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Test"]
-build = ["Libdl"]
-
 
