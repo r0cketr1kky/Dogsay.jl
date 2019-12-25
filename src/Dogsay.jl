@@ -6,7 +6,7 @@ function dogsay(str)
   println("   |\\_/|   ")                  
   println("   | @ @     $str");
   println("   |   <>              _  ")
-  println("   |  _/\------____ ((| |))")
+  println("   |  _/\\------____ ((| |))")
   println("   |               `--| |")
   println("  ____|_       ___|   |___.")
   println("/_/_____/____/_______|")
